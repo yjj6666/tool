@@ -8,7 +8,11 @@ In case you can't migrate to the Spring Tools 4, please let us know and provide 
 
 For your convenience, we still update the Spring Tool Suite 3 to the latest Eclipse distributions and will probably continue to do that for a little while (based on community feedback and demand). You can find the download links below. But please keep in mind to migrate to the new Spring Tools 4, since we will not be able to update the Spring Tool Suite 3 distribution forever.
 
-## Latest Downloads
+## Migrate to Spring Tools 4 for Eclipse
+
+The Spring Tools 4 wiki contains a small migration guide, please take a look at it: https://github.com/spring-projects/sts4/wiki/STS3-Migration
+
+## Latest STS3 Downloads
 
 ### Spring Tool Suite 3.9.11 ([New and Noteworthy](https://docs.spring.io/sts/nan/v3911/NewAndNoteworthy.html))
 
