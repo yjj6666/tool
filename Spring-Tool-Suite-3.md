@@ -14,6 +14,34 @@ The Spring Tools 4 wiki contains a small migration guide, please take a look at 
 
 ## Latest STS3 Downloads
 
+### Spring Tool Suite 3.9.14
+
+#### full distribution on Eclipse 4.17
+
+  * https://download.springsource.com/release/STS/3.9.14.RELEASE/dist/e4.17/spring-tool-suite-3.9.14.RELEASE-e4.17.0-win32-x86_64.zip
+  * https://download.springsource.com/release/STS/3.9.14.RELEASE/dist/e4.17/spring-tool-suite-3.9.14.RELEASE-e4.17.0-macosx-cocoa-x86_64.dmg
+  * https://download.springsource.com/release/STS/3.9.14.RELEASE/dist/e4.17/spring-tool-suite-3.9.14.RELEASE-e4.17.0-linux-gtk-x86_64.tar.gz
+
+#### full distribution on Eclipse 4.16
+
+  * https://download.springsource.com/release/STS/3.9.14.RELEASE/dist/e4.16/spring-tool-suite-3.9.14.RELEASE-e4.16.0-win32-x86_64.zip
+  * https://download.springsource.com/release/STS/3.9.14.RELEASE/dist/e4.16/spring-tool-suite-3.9.14.RELEASE-e4.16.0-macosx-cocoa-x86_64.dmg
+  * https://download.springsource.com/release/STS/3.9.14.RELEASE/dist/e4.16/spring-tool-suite-3.9.14.RELEASE-e4.16.0-linux-gtk-x86_64.tar.gz
+
+#### full distribution on Eclipse 4.15
+
+  * https://download.springsource.com/release/STS/3.9.14.RELEASE/dist/e4.15/spring-tool-suite-3.9.14.RELEASE-e4.15.0-win32-x86_64.zip
+  * https://download.springsource.com/release/STS/3.9.14.RELEASE/dist/e4.15/spring-tool-suite-3.9.14.RELEASE-e4.15.0-macosx-cocoa-x86_64.dmg
+  * https://download.springsource.com/release/STS/3.9.14.RELEASE/dist/e4.15/spring-tool-suite-3.9.14.RELEASE-e4.15.0-linux-gtk-x86_64.tar.gz
+
+#### p2 repositories
+
+  * p2 repo for Eclipse 4.17: https://download.springsource.com/release/TOOLS/update/3.9.14.RELEASE/e4.17/
+  * p2 repo for Eclipse 4.16: https://download.springsource.com/release/TOOLS/update/3.9.14.RELEASE/e4.16/
+  * p2 repo for Eclipse 4.15: https://download.springsource.com/release/TOOLS/update/3.9.14.RELEASE/e4.15/
+
+## Previous STS3 Versions
+
 ### Spring Tool Suite 3.9.13 ([New and Noteworthy](https://docs.spring.io/sts/nan/v3913/NewAndNoteworthy.html))
 
 #### full distribution on Eclipse 4.16
@@ -39,8 +67,6 @@ The Spring Tools 4 wiki contains a small migration guide, please take a look at 
   * p2 repo for Eclipse 4.16: https://download.springsource.com/release/TOOLS/update/3.9.13.RELEASE/e4.16/
   * p2 repo for Eclipse 4.15: https://download.springsource.com/release/TOOLS/update/3.9.13.RELEASE/e4.15/
   * p2 repo for Eclipse 4.14: https://download.springsource.com/release/TOOLS/update/3.9.13.RELEASE/e4.14/
-
-## Previous STS3 Versions
 
 ### Spring Tool Suite 3.9.12 ([New and Noteworthy](https://docs.spring.io/sts/nan/v3912/NewAndNoteworthy.html))
 
