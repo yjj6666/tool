@@ -14,7 +14,7 @@ The Spring Tools 4 wiki contains a small migration guide, please take a look at 
 
 ## Latest STS3 Downloads
 
-### Spring Tool Suite 3.9.14
+### Spring Tool Suite 3.9.14 ([New and Noteworthy](https://docs.spring.io/sts/nan/v3914/NewAndNoteworthy.html))
 
 #### full distribution on Eclipse 4.17
 
